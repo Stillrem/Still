@@ -44,7 +44,7 @@
 		"PRIMARY_DARK_700": "#14161A",
 		"PRIMARY_DARK_800": "#14161A",
 		"BRAND_NEW": "#8ACCA4",
-		"WHITE": "#FFFFFF"
+		#"WHITE": "#FFFFFF"
 	},
 	"unsafe_colors": {
 		"CHAT_GREY": "#14161A"
@@ -52,6 +52,6 @@
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/Stillrem/Still/main/.accept/bg/0750F2B3-A33D-43C1-A2DC-81D8A5F69D6F.jpeg",
-    "alpha": 1
+    "alpha": 0.4
   }
 }
