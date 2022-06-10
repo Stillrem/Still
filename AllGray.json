@@ -1,11 +1,10 @@
 {
-  "name": "Pip-Boy",
+  "name": "AllG",
   "description": "FelCo Industries Unified operating system copyright 2075-2077 FelCo Industries u.3400 (special)",
-  "version": "6.66",
+  "version": "1.11",
   "authors": [
     {
-      "name": "Felix",
-      "id": "499287211381096458"
+      "name": "All",
     }
   ],
   "theme_color_map": {
