@@ -50,7 +50,7 @@
 		"CHAT_GREY": "#14161A"
 },
   "background": {
-    "blur": 0,
+    "blur": 0.1,
     "url": "https://raw.githubusercontent.com/Stillrem/Still/main/.accept/bg/0750F2B3-A33D-43C1-A2DC-81D8A5F69D6F.jpeg",
     "alpha": 1
   }
