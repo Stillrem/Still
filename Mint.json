@@ -1,12 +1,11 @@
 {
-	"name": "Minty",
-	"author": "light#9585",
+	"name": "Mint",
+	"author": "Stillrem",
 	"version": "1.0",
-	"description": "Discord with a minty fresh coat of paint.",
+	"description": "Discord with a mint fresh coat of paint.",
 	"authors": [ 
 		{
-			"name": "light",
-			"id": "341377368075796483"
+			"name": "All",
 		}
 	],
 	"theme_color_map": {
