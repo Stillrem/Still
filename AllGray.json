@@ -7,10 +7,7 @@
 			"name": "All",
 		}
 	],
-	"background": {
-		"blur": 0,
-		"url": "https://raw.githubusercontent.com/Stillrem/Still/main/.accept/bg/0750F2B3-A33D-43C1-A2DC-81D8A5F69D6F.jpeg",
-		"alpha": 1
+	
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#373A44", "#373A44"],
@@ -57,5 +54,10 @@
 	},
 	"unsafe_colors":{
 		"CHAT_GREY": "#353841"
-	}
+}, 
+"background": {
+		"blur": 0,
+		"url": "https://raw.githubusercontent.com/Stillrem/Still/main/.accept/bg/0750F2B3-A33D-43C1-A2DC-81D8A5F69D6F.jpeg",
+		"alpha": 1
+}
 }
