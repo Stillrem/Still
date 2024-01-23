@@ -15,7 +15,7 @@
 7. **Deactivating the Old Theme**: If another theme was previously activated, it is important to ensure it is turned off, as using multiple themes simultaneously may lead to undesirable outcomes.
 
 Upon completing these steps, the new theme will be applied, altering the interface's appearance according to the user's selection. It's crucial to ensure the accuracy of the theme's name entered in the URL to avoid errors during the download. A well-curated and beautifully set theme can significantly enhance the user experience, making the app interaction more enjoyable and personalized.
-
+---
 **To download the latest version of Enmity in .IPA format, please follow these steps:**
 
 1. Click [download .IPA](https://github.com/enmity-mod/tweak/releases/latest) to navigate to the Enmity project's latest releases page.
