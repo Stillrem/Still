@@ -1,5 +1,5 @@
-**For users of the Enmity app seeking to revitalize their interface by applying personalized themes, the following step-by-step instructions are provided:**
-
+For users of the Enmity app seeking to revitalize their interface by applying personalized themes, the following step-by-step instructions are provided:
+---
 1. **Theme Selection**: The user selects a theme that reflects their taste and mood. Each theme is uniquely named.
 
 2. **Acquiring the Theme Link**: To download a theme, one must obtain a direct link to the theme file. This is done by replacing the asterisks in a standard link with the name of the chosen theme. Example link template: `https://raw.githubusercontent.com/Stillrem/Still/main/****.json`. The user replaces the asterisks (****) with the name of the theme of interest.
